@@ -6,7 +6,7 @@
 
 # How to run?
 
-- Pull the master branch.
+- Pull the `master` branch.
 - cd into the `server` folder.
 - Run `npm install`
 
