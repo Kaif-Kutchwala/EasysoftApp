@@ -6,8 +6,9 @@
 
 # How to run?
 
-Pull the master branch.
-Run `npm install`
+- Pull the master branch.
+- cd into the `server` folder.
+- Run `npm install`
 
 Open 3 terminals.
 
