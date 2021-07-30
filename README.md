@@ -21,6 +21,6 @@ In terminal 3 run `node app.js`.
 On temrinal 2 you will initially see your connection string, please reveiw this to ensure it is correct.
 On terminal 3 you will initially see your api key, please reveiw this to ensure it is correct.
 
-#Important Note
+# Important Note
 Please ensure all tables in the database are empty before executing the commands.
 
